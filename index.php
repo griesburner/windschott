@@ -6,7 +6,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
   <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
   <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 <title>Windschott Design</title>
@@ -15,7 +15,7 @@
 
 
 
-<a href="index.html"><img id="logo" src="../img/logo.svg" /></a>
+<a href="index.html"><img id="logo" src="img/logo.svg" /></a>
 
   <div class="menu-bg"></div>
   <div class="menu-burger">☰</div>
@@ -51,7 +51,7 @@ Unsere besondere Kompetenz bezüglich Windblocker liegt im Bereich Windschott So
 Unsere besondere Kompetenz bezüglich Windblocker liegt im Bereich Windschott Sonderanfertigungen und ständigen Neuentwicklungen für die aktuellen Modelle mit TÜV Gutachten. Langjährige Kunden schätzen besonders die hohe Qualität unserer Produkte, unsere Zuverlässigkeit sowie die Flexibilität mit der wir unser Unternehmen führen. Die mehr als 15, beim deutschen Patent-und Markenamt angemeldeten, Geschmacksmuster zeugen von unserer Innovations- und Fachkompetenz im Bereich Glaswindschotts. 
 Auch viele namhafte Tuner und renommierte Autohäuser gehören zu unserem Kundenkreis.  
 </p>
-<a href="index.html" class="buttondark">-> Mehr über uns erfahren</a>
+<a href="index.php" class="buttondark">-> Mehr über uns erfahren</a>
 </div>
 
 
@@ -60,7 +60,7 @@ Auch viele namhafte Tuner und renommierte Autohäuser gehören zu unserem Kunden
 <h3>
 Individuelle Ausführungen von Ihrem Windschott möglich
 </h3>
-<img src="../img/box1.png" />
+<img src="img/box1.png" />
 <center><a href="index.php">-> Windschotts „Clean“</a></center>
 <div class="buttonreihe">
 <button class="circleblue"></button>
@@ -72,7 +72,7 @@ Individuelle Ausführungen von Ihrem Windschott möglich
   <h3>
   Individuelle Ausführungen von Ihrem Windschott möglich
   </h3>
-  <img src="../img/box2.png" />
+  <img src="img/box2.png" />
   <center><a href="index.php">-> Windschotts mit Herstellerlogo</a></center>
   <div class="buttonreihe">
   <button class="circlewhite"></button>
@@ -84,7 +84,7 @@ Individuelle Ausführungen von Ihrem Windschott möglich
     <h3>
     Individuelle Ausführungen von Ihrem Windschott möglich
     </h3>
-    <img src="../img/box3.png" />
+    <img src="img/box3.png" />
     <center><a href="index.php">-> Windschotts mit individuellem Artwork</a></center>
     <div class="buttonreihe">
     <button class="circlewhite"></button>
